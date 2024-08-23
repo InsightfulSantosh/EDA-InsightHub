@@ -15,8 +15,6 @@ Welcome to **EDA-InsightHub**, a comprehensive repository dedicated to Explorato
    - [Data Visualization](#data-visualization)
 3. [Step-by-Step EDA Process](#step-by-step-eda-process)
 4. [Automated EDA Tools](#automated-eda-tools)
-5. [Cheatsheet](#Cheatsheet)
-
 
 ## Introduction
 
