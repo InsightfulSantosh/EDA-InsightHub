@@ -1,8 +1,5 @@
-Here's a template for your GitHub repository's README file that outlines the contents and purpose of your EDA-focused project:
 
----
-
-# EDA-InsightHub
+# **EDA-InsightHub**
 
 Welcome to **EDA-InsightHub**, a comprehensive repository dedicated to Exploratory Data Analysis (EDA). This repository serves as a one-stop guide for understanding and performing EDA, covering everything from basic descriptive statistics to advanced inferential analysis and visualization techniques.
 
