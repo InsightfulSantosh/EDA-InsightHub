@@ -16,7 +16,7 @@ Welcome to **EDA-InsightHub**, a comprehensive repository dedicated to Explorato
 5. [VizPro - Custom EDA Tool](#vizpro---custom-eda-tool)
 6. [Repository Structure](#repository-structure)
 7. [Contributing](#contributing)
-8. [License](#license)
+
 
 ## Introduction
 
